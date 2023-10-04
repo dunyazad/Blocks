@@ -1,0 +1,3 @@
+[submodule "External/BlockA"]
+	path = External/BlockA
+	url = https://github.com/dunyazad/BlockA.git
